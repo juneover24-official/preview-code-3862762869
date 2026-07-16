@@ -1,7 +1,7 @@
 {
   "qq_number": "3862762869",
   "group_number": "903111216",
-  "updated_at": "2026-07-16T01:24:56+00:00",
+  "updated_at": "2026-07-16T01:25:02+00:00",
   "skins": [
     {
       "name": "兔猫茶点会脆脆",
@@ -38,6 +38,12 @@
       "file": "兔猫茶点会脆脆融合.bdi",
       "thumb": "兔猫茶点会脆脆融合.bdi_py_26_light_thumb.png",
       "full": "兔猫茶点会脆脆融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "兔猫茶点会闷闷",
+      "file": "兔猫茶点会闷闷.bds",
+      "thumb": "兔猫茶点会闷闷.bds_py_26_light_thumb.png",
+      "full": "兔猫茶点会闷闷.bds_py_26_light_thumb.png"
     }
   ]
 }
